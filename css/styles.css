@@ -321,6 +321,7 @@ nav {
 /* About */
 .about {
     padding: 160px 0;
+    background-color: #e8e5e5;
 }
 
 .about .content {
@@ -425,12 +426,14 @@ nav {
 /* Services */
 .services {
     padding: 160px 0;
+    background: url('../images/long-shadow.png');
 }
 
 .services .content > .title {
     font-size: 4rem;
     margin-bottom: 2rem;
-    border-bottom: 1px solid var(--primary);
+    border-bottom: 1px solid whitesmoke;
+    color: whitesmoke;
 }
 
 .services-container {
@@ -499,6 +502,7 @@ nav {
 /* Contact section */
 .contact {
     padding: 160px 0;
+    background-color: #e8e5e5;
 }
 
 .contact .content {
