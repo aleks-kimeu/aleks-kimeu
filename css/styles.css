@@ -329,7 +329,8 @@ nav {
     .header .content > img {
         order: -1;
         margin-bottom: 2rem;
-        width: 100%;
+        width: 80%;
+        height: 250px;
     }
 
     .header .content .description {
