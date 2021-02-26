@@ -514,7 +514,7 @@ nav {
 
 .services-container .card > img {
     height: 150px;
-    width: 200px;
+    width: 100%;
 }
 
 @media(max-width: 500px){
@@ -625,7 +625,7 @@ nav {
 }
 
 .projects-container .card > img {
-    width: 200px;
+    width: 100%;
     height: 150px;
 }
 
@@ -677,7 +677,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     color: #fff;
-    margin-top: 3rem;
+    margin-top: 5rem;
 }
 
 @media(max-width: 600px){
