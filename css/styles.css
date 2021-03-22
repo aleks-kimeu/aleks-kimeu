@@ -189,7 +189,7 @@ nav {
 .header .content {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .name {
@@ -280,8 +280,8 @@ nav {
 
 .profile-img {
     border-radius: 50%;
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     border: 2px solid var(--primary);
 }
 /* End Header */
